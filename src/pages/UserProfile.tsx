@@ -1,5 +1,4 @@
 import { useApp } from '../context/AppContext'
-import type { HealthGoal } from '../types'
 
 const CUISINES = ['Italian', 'Mexican', 'Indian', 'Asian', 'American', 'Mediterranean', 'French', 'Any']
 const DIETS = [
